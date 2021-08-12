@@ -13,6 +13,8 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
+This is Felipe's version of this project, forked from the udacity course on Data Science
+
 For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
 
 1. How other developers suggested breaking into the field (what education to pursue)?
